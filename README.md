@@ -5,6 +5,7 @@ Setting up
 1. ./setup/caserver-setup.sh
 2. ./setup/docker-setup.sh
 3. ./setup/go-setup.sh
+   
 
 There are bin subfolder in fabric-ca, orderer, peers folders.  There is a file run-<peers/orderer/ca>-1-go.sh which should be run in below sequence.
 
